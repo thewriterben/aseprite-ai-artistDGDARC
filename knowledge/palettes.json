@@ -55,6 +55,20 @@
         "#000000", "#242424", "#484848", "#6d6d6d",
         "#919191", "#b6b6b6", "#dadada", "#ffffff"
       ]
+    },
+    "dgd": {
+      "name": "DGD Core",
+      "author": "Digital Gold (DGD Arcade, Direction 03)",
+      "size": 23,
+      "notes": "DGD Arcade brand anchors: dark UI neutrals, the #EA952D accent, status colours, the flat gold coin (rim/body/edge/glyph) and the Coin Quest piece colours. Source of truth is the shipped theme.dart, mirrored in 'F:/Documents/DGD Arcade Studio/brand/dgd-core.gpl'. A game palette is these anchors plus its own ramps; outlines stay warm (dark brown, never black).",
+      "colors": [
+        "#09090b", "#141414", "#202020", "#303030",
+        "#3c3c3c", "#4d4d4d", "#8a8a8a", "#a7a7a7",
+        "#e8e8e8", "#ea952d", "#ffaf4e", "#3080ff",
+        "#28c93f", "#ff6b6b", "#edb200", "#b57bee",
+        "#ffd679", "#fbcc61", "#f3bc42", "#5c3e04",
+        "#c21f2c", "#0a3161", "#1e8a4c"
+      ]
     }
   }
 }

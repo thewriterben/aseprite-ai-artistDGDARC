@@ -36,7 +36,7 @@ export function registerPaletteTools(server: McpServer, live: AsepriteLink): voi
         "Read and shape the sprite's palette. Ops:\n" +
         "• 'get' — current palette with per-colour usage counts.\n" +
         "• 'set' — write specific indices, or replace the palette wholesale.\n" +
-        "• 'preset' — load a bundled palette (pico8, gameboy, gameboy-pocket, cga, 1bit, grayscale-8).\n" +
+        "• 'preset' — load a bundled palette (pico8, gameboy, gameboy-pocket, cga, 1bit, grayscale-8, dgd).\n" +
         "• 'load' — read a .gpl/.hex/.pal/.png palette file from disk.\n" +
         "• 'ramp' — generate a hue-shifted ramp from a base colour and append it. Shadows rotate toward blue, highlights toward orange; a ramp that only changes brightness is the clearest tell of machine-made pixel art.\n" +
         "• 'analyze' — report ramp structure, contrast, near-duplicate entries and colours used in the art that are not in the palette.\n" +
